@@ -1,0 +1,2127 @@
+APPENDIX 1
+Acronyms and Abbreviations
+2-DOF — Two Degrees of Freedom
+3-DOF — Three Degrees of Freedom
+
+A
+A&P — Airframe and Powerplant
+AAC — Aircraft Administration Communications
+AAE — American Association of Airport Executives
+AAI — Arrival Aircraft Interval
+AAM — Air-to-Air Missile
+AAR — Airport Acceptance Rate
+AAS — Airport Advisory Service
+AAUP — Attention All Users Page
+AB — Afterburner
+ABC — After Bottom Center
+ABS — Absolute
+AC — Advisory Circular
+A/C — Air Conditioning;
+AC — Air Corps (an obsolete abbreviation)
+AC — Alternating Current
+ACARS — ARINC Communication Addressing and Reporting System
+ACAS — Airborne Collision and Avoidance System
+ACC — Active Clearance Control
+
+ACC — Area Control Centers
+ACCEL — Acceleration
+ACDO — Air Carrier D25istrict Office
+ACESS — Advanced Cabin Entertainment and Service System
+ACLS — Automatic Carrier Landing System
+ACLT — Actual Calculated Landing Time
+ACM — Air Cycle Machine
+ACMI — Air Combat Maneuvering Instrumentation
+ACMS — Aircraft Condition Monitoring System
+ACS — Airman Certification Standards
+ACT — Active Control Technology
+ACU — Acceleration Control Unit
+ACU — Antenna Coupling Unit
+AD — Airworthiness Directive
+A/D — Analog-to-Digital
+ADAHRS — Air Data Attitude and Heading Reference System
+A/D Conv — Analog-to-Digital Converter
+ADC — Analog-to-Digital Converter
+ADC — Air Data Computer
+ADDS — Aviation Digital Data Service
+ADEU — Automatic Data Entry Unit
+ADF — Automatic Direction Finder
+ADI — Antidetonation Injection
+ADI — Attitude Director Indicator
+ADIZ — Air Defense Identification Zone
+
+ADLY — Arrival Delay
+ADM — Aeronautical Decision Making
+ADMA — Aviation Distributors and Manufacturers Association
+ADP — Advanced Ducted Propfan
+ADS — Automatic Dependent Surveillance
+ADS–B — Automatic Dependent Surveillance–Broadcast
+ADV — Air Defense Version
+AEA — Aircraft Electronics Association, Inc.
+AEG — Aircraft Evaluation Group
+AEM — Audio Entertainment Multiplexer
+AER — Approach End of Runway
+AEW — Airborne Early Warning
+AF — Audio Frequency
+AFA — Air Force Association
+AFA — Association of Flight Attendants
+AFC — Automatic Frequency Control
+AFCS — Automatic Flight Control System
+A/FD — Airport/Facility Directory
+AFDS — Autopilot Flight Director System
+AFIS — Automatic Flight Information Service
+AFM — Airplane Flight Manual
+AFMS — Airplane Flight Manual Supplements
+AFS — Aircraft Flight Safety
+AFS — Autoflight System
+AFSS — Automated Flight Service Station
+
+AFTI — Advanced Fighter Technology Integration
+AFVG — Anglo-French Variable Geometry
+A/G — Air/Ground
+AGB — Accessory Gear Box
+AGC — Automatic Gain Control
+AGI — Advanced Ground Instructor
+AGL — Above Ground Level
+AGM — Air-to-Ground Missile
+AGS — Automatic Gain Stabilization
+AHRS — Attitude and Heading Reference System
+AI — Attitude Indicator
+AIA — Aerospace Industries Association of America, Inc.
+AIAA — American Institute of Aeronautics and Astronautics, Inc.
+AID — Airport Information Desk
+AIDS — Airborne Integrated Data System
+AIL — Aileron
+AILS — Automatic Instrument Landing System
+AIM — Aeronautical Information Manual
+AIM — Avalanche-Induced Migration
+AIMS — Advanced Integrated Manufacturing System
+AIP — Aeronautical Information Publication (ICAO)
+AIR — Aircraft Certification Service
+AIRMET — Airman’s Meteorological Information
+AIS — Aeronautical Information Service
+AIS — Airborne Instrumentation System
+
+AISI — American Iron and Steel Institute
+AIT — Automated Information Transfer
+AJW-3 — Aviation System Services (part of FAA’s Technical Operations
+Services)
+A/L — Autoland
+ALAR — Approach and Landing Accident Reduction
+ALARM — Air-Launched AntiRadiation Missile
+ALD — Available Landing Distance
+ALERFA — Alert Phase (ICAO)
+Al-Gate MOS — Aluminum-Gate Metal Oxide Silicon semiconductor
+ALNOT — Alert Notice
+ALOFT — Airborne Light/Optical Fiber Technology
+ALPA — Air Line Pilot’s Association, Intl.
+ALRS — Arithmetic and Logic Register Stack
+ALS — Approach Lighting System
+ALSF-I — Approach Light System with sequenced Flashing lights in ILS Cat I
+configuration
+ALSF-II — Approach Light System with sequenced Flashing lights in ILS Cat II
+configuration
+ALT — Altitude
+ALT ACQ — Altitude Acquire
+ALT HOLD — Altitude Hold
+ALTRV — Altitude Reservation
+ALU — Arithmetic and Logic Unit
+AM — Amplitude Modulated
+AMA — Academy of Model Aeronautics
+
+AMAD — Airframe Mounted Accessory Drives
+AMASS — Airport Movement Area Safety System
+AMDAR — Aircraft Meteorological Data Relay
+AME — Aviation Medical Examiner
+AMED — Advanced Mechanical Engine Demonstrator
+AMEL — Airplane Multi-Engine Land
+AMES — Airplane Multi-Engine Sea
+AMETS — Airplane Maintenance Engineering Time Standard
+AMOS — Automatic Meteorological Observing Station
+AMP — Amplifier
+amp — ampere
+AMS — Aeronautical Materials Specifications
+AMSL — Absolute Mean Sea Level
+AMT — Aviation Maintenance Technician
+AMVER — Automated Mutual-Assistance Vessel Rescue System
+AN — Air Force-Navy or Army-Navy
+ANA — All Nippon Airways
+ANCA — Airport Noise and Capacity Act
+ANP — Actual Navigation Performance
+ANR — Advanced Navigation Route
+ANSI — American National Standards Institute
+ANT — Antenna
+AOA — Airport Operating Area
+AOA — Angle of Attack
+AOC — Aircraft Operational Communications
+
+AOCC — Airline Operations Control Center
+AOG — Aircraft on the Ground
+AOPA — Aircraft Owners and Pilots Association
+AOSS — After Over Station Sensor
+AP — Autopilot
+APB — Automated Problem Detection Boundary
+APC — Absolute Pressure Controller
+APCU — Auxiliary Power Control Unit
+APD — Automated Problem Detection
+APDIA — Automated Problem Detection Inhibited Area
+APFDS — Autopilot and Flight Director System
+API — American Petroleum Institute
+API — Application Programming Interface
+APMS — Automatic Performance and Management System
+APS — Altitude Preselect
+APSB — Altitude Preselect Bracket
+APT WP — Airport Waypoint
+APU — Auxiliary Power Unit
+APV — Approach with Vertical Guidance
+AQR — Airline Quality Report
+ARAC — Army Radar Approach Control
+ARAC — Aviation Rulemaking Advisory Committee
+ARC — Aftermarket Risk Contract
+ARF — Almost Ready-to-Fly
+ARFF — Aircraft Rescue and Fire Fighting
+
+ARINC — Aeronautical Radio Incorporated
+A-RNAV — Advanced Area Navigation
+ARO — Airport Reservation Office
+ARPT — Airport
+ARSA — Aeronautical Repair Stations Association
+ARSA — Airport Radar Service Area
+ARSR — Air Route Surveillance Radar
+ARTC — Air Route Traffic Control
+ARTCC — Air Route Traffic Control Center
+ARTS — Automated Radar Terminal Systems
+AS — Aeronautical Standard
+AS, A/S — Airspeed
+ASA — American Standards Association
+ASA — Autoland Status Annunciator
+ASARS — Advanced Synthetic Aperture Radar System
+ASC — Aero Sports Connection
+ASCB — Avionics Standard Communications Bus
+ASCII — American Standard Code for Information Interchange
+ASCR — Asymmetrical Silicon Controlled Rectifier
+ASD — Aircraft Situation Display
+ASDA — Accelerate-Stop Distance Available
+ASDAR — Aircraft to Satellite Data Relay
+ASDE — Airport Surface Detection Equipment
+ASDE–3 — Airport Surface Detection Equipment–3
+ASDE–X — Airport Surface Detection Equipment–X
+
+ASEL — Airplane Single-Engine Land
+ASES — Airplane Single-Engine Sea
+ASF — Air Safety Foundation
+ASI — Airspeed Indicator
+ASI — Aviation Safety Inspector
+ASL — Above Sea Level
+ASLAR — Aircraft Surge Launch and Recovery
+ASM — Air-to-Surface Missile
+ASM — Available Seat Mile
+A-SMGCS — Advanced Surface Movement Guidance and Control System
+ASOS — Automated Surface Observing System
+ASP — Arrival Sequencing Program
+ASPS — Airborne Self Protection System
+ASR — Airport Surveillance Radar
+ASRAAM — Advanced Short Range Air-to-Air Missile
+ASRS — Aviation Safety Reporting System
+ASSC — Airport Surface Surveillance Capability
+ASSURE — Alliance for System Safety of UAS through Research Excellence
+ASTM — American Society for Testing and Materials
+ASTOVL — Advanced STOVL
+ASU — Altitude Sensing Unit
+ASW — Anti-Submarine Warfare
+ASYM — Asymmetrical
+AT — Auto Throttle
+ATA — Actual Time of Arrival
+
+ATA — Air Transport Association of America
+ATA — Aviation Training Association
+ATC — After Top Center
+ATC — Air Traffic Control
+ATC — Approved Type Certificate
+ATCAA — ATC Assigned Airspace
+ATCRBS — Air Traffic Control Radar Beacon System
+ATCS — Air Traffic Control Specialist
+ATCSCC — Air Traffic Control System Command Center
+ATCT — Airport Traffic Control Tower
+ATCT — Airport Traffic Control Transponder
+ATC-TFM — Air Traffic Control Traffic Flow Management
+ATD — Actual Time of Departure
+ATD — Along Track Distance
+ATE — Actual Time Enroute
+ATE — Automatic Test Equipment
+ATEC — Aviation Technician Education Council
+ATF — Aerodynamic Twisting Force
+ATFM — Air Traffic Flow Management
+ATIRCM — Advanced Threat Infrared Countermeasures
+ATIS — Automatic Terminal Information Service
+ATLAS — Abbreviated Test Language for Avionics Systems
+ATM — Aerodynamic Twisting Moment
+ATO — Air Traffic Organization
+ATOL — Automatic Test-Oriented Language
+
+ATP — Advanced Turboprop
+ATP — Airline Transport Pilot
+ATR — Avions de Transport Regional
+ATS — Air Traffic Service
+ATS — Automated Throttle System
+ATSC — Air Traffic Security Coordinator
+AT/SC — Auto Throttle/Speed Control
+ATT — Attitude
+ATU — Antenna Tuning Unit
+AUG — Augmentation
+AUTO — Automatic
+AUTOB — Automatic Weather Reporting System
+AUVSI — Association for Unmanned Vehicle Systems International
+AUW — All-Up Weight
+AUX — Auxiliary
+AVC — Automatic Volume Control
+AVGAS — AViation GASoline
+AVM — Airborne Vibration Monitor
+AVN — Office of Aviation System Standards
+AVT — Advanced Vectored Thrust
+AWA — Aviation/Space Writers Association
+AWACS — Airborne Warning and Control System
+AWC — Aviation Weather Center
+AWG — American Wire Gage
+AWIPS — Advanced Weather Interactive Processing System
+
+AWO — All Weather Operation
+AWOS — Automated Weather Observing System
+AWR — Airborne Weather Radar
+AWSS — Automated Weather Sensor System
+AWTT — Aviation Weather Technology Transfer
+AWW — Severe Weather Forecast Alert
+
+B
+BA — British Airways
+BA — Bank Angle
+BAA — Bilateral Airworthiness Agreement
+BAe — British Aerospace
+BARO — Barometric
+Baro-VNAV — Barometric Vertical Navigation
+BASA — Bilateral Aviation Safety Agreement
+BATT — Battery
+B/B — Back Beam
+BB — Bar Bias
+BBC — Before Bottom Center
+BBD — Bucket Brigade Device
+BC, B/C — Back Course
+BCD — Binary Coded Decimal
+BCSL — Base-Current Switch Logic
+B/D — Bottom of Descent
+BeAMOS — Beam-Addressed Metal Oxide Silicon semiconductor
+
+BEC — Battery Elimination Circuitry
+BFET — Bipolar Field Effect Transistor
+BFL — Buffered Field Effect Transistor Logic
+BFO — Beat Frequency Oscillator
+BFR — Biennial Flight Review
+BGI — Basic Ground Instructor
+BHP — Brake Horsepower
+BIGFET — Bipolar Insulated Gate Field Effect Transistor
+BIMOS — Bipolar Metal Oxide Silicon semiconductor
+BIOS — Basic Input/Output System
+BIT — Binary Digit
+BITE — Built-In Test Equipment
+BLC — Boundary Layer Control
+BLOS — Beyond Line-Of-Sight
+BM — Back Marker
+BMEP — Brake Mean Effective Pressure
+BML — Bipolar Memory, Linear
+BNF — Bind-and-Fly
+BNR — Binary Numerical Reference
+BOP — Bipolar Operational Power
+BORAM — Block Oriented Random Access Memory
+BOW — Basic Operating Weight
+BPCU — Bus Power Control Unit
+BPR — Bypass Ratio
+BR — BMW–Rolls-Royce
+
+BRG — Bearing
+BRITE — Bright Radar Indicator Tower Equipment
+B-RNAV — European Basic RNAV
+BSFC — Brake Specific Fuel Consumption
+BSR — Bit Shift Register
+BTB — Bus Tie Breaker
+BTC — Before Top Center
+Btu — British Thermal Unit
+BU — Buffer Unit
+BVLOS — Beyond Visual Line-Of-Sight
+
+C
+C3 — Command, Control, and Communication
+CAA — Civil Aeronautics Administration
+CAA — Civil Aviation Authority (UK)
+CAASD — Center for Advanced Aviation Systems Development
+CAB — Cabin
+CAB — Civil Aeronautics Board
+CAD — Computer-Aided Design
+CAD/CAM — Computer Aided Design and Manufacturing
+CADD — Computer-Aided Design Drafting
+CAE — Computer-Aided Engineering
+CALCM — Conventional Air-Launched Cruise Missile
+CAMI — Civil Aerospace Medical Institute
+CAMP — Continuous Airworthiness Maintenance Program
+
+CANC — Cancel
+CAP — Capture
+CAP — Civil Air Patrol
+CAP — Combat Air Patrol
+CAR — Civil Airworthiness Regulation
+CARF — Central Altitude Reservation Function
+CAS — Calibrated Airspeed
+CAS — Close Air Support
+CAS — Collision Avoidance System
+CASOM — Conventional Armed Stand-Off Missile
+CAT — Category
+CAT — Clear Air Turbulence
+CAT II — Category II
+CAVU — Ceiling and Visibility Unlimited
+CAWS — Central Aural Warning System
+CB — Circuit Breaker
+CBI — Computer-Based Instruction
+CBT — Computer-Based Training
+CCA — Central Control Actuator
+CCCI, C3I — Command, Control, Communications, Intelligence
+CCD — Charge Coupled Device
+CCIP — Continuously Computed Impact Point
+CCL — Convective Condensation Level
+CCPM — Cyclic/Collective Pitch Mixing
+CCS — Cabin Configuration System
+
+CCV — Control Configured Vehicle
+CCW — Counterclockwise
+CD — Clearance Delivery
+CD — Convergent-Divergent
+CDA — Controlled Diffusion Airfoil
+CDI — Course Deviation Indicator
+CDL — Configuration Deviation List
+CDM — Collaborative Decision Making
+CDT — Central Daylight Time
+CDT — Clearance Delivery Time
+CDT — Controlled Departure Time
+CDTI — Cockpit Display of Traffic Information
+CDU — Control/Display Unit
+CEMF — Counter Electromotive Force
+CENRAP — Center Radar ARTS Presentation/Processing
+CEP — Central East Pacific
+CFA — Controlled Firing Area
+CFCF — Central Flow Control Function
+CFIT — Controlled Flight Into Terrain
+CFM — Cubic Feet per Minute
+CFR — Code of the Federal Regulations
+CFRP — Carbon Fiber Reinforced Plastic
+CG — Center of Gravity
+CGD — Combined Graphic Display
+CH — Channel
+
+CH — Compass Heading
+CHGR — Charger
+CHT — Cylinder Head Temperature
+CIC — Cabin Interphone Controller
+CIS — Commonwealth of Independent States
+CIT — Compressor Inlet Temperature
+CK — Check
+CKT — Circuit
+C/L — Center Line
+CLC — Course Line Computer
+CLK — Clock
+CLOS — Command to Line of Sight
+CLR — Clear
+CLS — Cabin Lighting System
+CLT — Calculated Landing Time
+CMCS — Central Maintenance Computer System
+CMD — Command
+CMNPS — Canadian Minimum Navigation Performance Specification Airspace
+CMP — Configuration, maintenance, and procedures document
+CMPTR — Computer
+CMR — Central Management Unit
+CMWS — Common Missile Warning System
+CNF — Computer Navigation Fix
+CNS — Communication, Navigation, and Surveillance
+COA — Certificate of Waiver or Authorization
+
+COAX — Coaxial
+COMED — Combined Map and Electronic Display
+COMM — Communication
+COMP — Compressor
+COND — Condition
+CONFIG — Configuration
+CONN — Connection
+COP — Changeover Point
+CORR — Correction
+COS/MOS — Complementary Oxide Silicon/Metal Oxide Silicon
+COTS — Commercial Off-The-Shelf
+CP — Center of Pressure
+CP — Control Panel
+CPB — Chemically Powered Bomber
+CPDLC — Controller Pilot Data Link Communications
+CPL — Current Flight Plan (ICAO)
+CPU — Central Processor Unit
+CRAF — Civil Reserve Air Fleet
+CRC — Cyclic Redundancy Check
+CRCT — Collaborative Routing Coordination Tool
+CRM — Cockpit (or Crew) Resource Management
+CROM — Control and Read-Only Memory
+CRP — Compulsory Reporting Point
+CRS — Certified Repair Station
+CRS — Computer Reservation System
+
+CRS — Course
+CRT — Cathode-Ray Tube
+CS — Course Select
+CSD — Constant Speed Drive
+CSEU — Control Systems Electronic Unit
+CSL — Current-Sinking Logic
+CST — Central Standard Time
+CT — Control Tower
+CT — Control Transformer
+CTA — Control Area (ICAO)
+CTA — Controlled Time of Arrival
+CTAF — Common Traffic Advisory Frequency
+CTD — Charge Transfer Device
+CTL — Complementary Transistor Logic
+CTM — Centrifugal Twisting Moment
+CTOL — Conventional Takeoff and Landing
+CVFP — Charted Visual Flight Procedure
+CVR — Cockpit Voice Recorder
+CVS — Combined Vision System
+CW — Caution and Warning
+CW — Clockwise
+CWA — Center Weather Advisories
+CWS — Control Wheel Steering
+CWSU — Center Weather Service Unit
+
+D
+DA — Decision Altitude/Decision Height
+DA — Density Altitude
+D/A — Digital-to-Analog
+DA — Drift Angle
+DAC — Digital-to-Analog Converter
+DACS — Digital Aeronautical Chart Supplement
+DAD — Data Acquisition Display
+DADC — Digital Air Data Computer
+DAIR — Direct Altitude and Identity Readout
+DAIS — Digital Avionics Information System
+DALR — Dry Adiabatic Lapse Rate
+DAR — Data-Access Register
+DAR — Designated Airworthiness Representative
+DARPA — Defense Advanced Research Projects Agency
+DAS — Delay Assignment
+D-ATIS — Data-link Automatic Terminal Information Service
+DB — Diffusion Bonding
+DBRITE — Digital Bright Radar Indicator Tower Equipment
+DBS — Doppler Beam Sharpening
+DC — Direct Current
+DCC — Discrete Component Circuit
+DCDR — Decoder
+DCFL — Direct-Coupled Field Effect Transistor Logic
+
+DCL — Direct-Coupled Logic
+DCTL — Direct-Coupled Transistor Logic
+DDA — Derived Decision Altitude
+DDB — Digital Data Bus
+DDI — Dual Distance Indicator
+DDS — Digital Display System
+DEM — Digital Elevation Model
+DEMOD — Demodulator
+DER — Departure End of Runway
+DER — Designated Engineering Representative
+DFDAU — Digital Flight Data Acquisition Unit
+DFDR — Digital Flight Data Recorder
+DG — Directional Gyro
+D/G — Driver/Gate
+DGPS — Differential Global Positioning System
+DH — Decision Height
+DI — Digital Interface
+DIC — Digital Integrated Circuit
+DIFCS — Digital Integrated Flight Control System
+DIL — Dual In-line
+DIP — Dual In-line Package
+DISTR — Distributor
+DLC — Direct Lift Control
+DMA — Direct Memory Access
+DMAP — Digital Modular Avionics Program
+
+DMC — Direct Memory Channel
+DME — Designated Mechanic Examiner
+DME — Designated Medical Examiner
+DME — Distance Measuring Equipment compatible with TACAN
+DMLS — Doppler Microwave Landing System
+DMM — Digital Multimeter
+DMOS — Double-diffused Metal Oxide Silicon semiconductor
+DOD — Department of Defense
+DOD — Domestic Object Damage
+DOT — Department of Transportation
+DP — Departure Procedures
+DP — Differential Protection
+DRC — Dual Remote Compensator
+DPE — Designated Pilot Examiner
+DR — Dead Reckoning
+DRVSM — Domestic Reduced Vertical Separation Minimums
+DS — Directionally Solidified
+DSA — Detect, Sense, and Avoid
+DSB — Double-Sided Board
+DSC — Digital-to-Synchro Converter
+DSM — Dynamic Scattering Mode
+DSP — Departure Sequencing Program
+DSR — Display System Replacement
+DT — Delay Time
+DTG — Distance To Go
+
+DTL — Diode-Transistor Logic
+DU — Display Unit
+DUAT — Direct User Access Terminal (weather briefing)
+DUF — Diffusion Under Epitaxial Film
+DVA — Diverse Vector Area
+DVFR — Defense Visual Flight Rules
+DVRSN — Diversion
+DVM — Digital Voltmeter
+DWN — Down
+
+E
+EAA — Experimental Aircraft Association, Inc.
+EAC — Expect Approach Clearance
+EADF — Electronic Automatic Direction Finder
+EADI — Electronic Attitude Director Indicator
+EAR — Export Administration Regulations
+EAROM — Electrically Alterable Read Only Memory
+EARTS — En Route Automated Radar Tracking System
+EAS — En Route Automation System
+EAS — Equivalent Airspeed
+EASA — European Aviation Safety Agency
+EAT — Expected Approach Time
+EBCDIC — Extended Binary Coded Decimal Interchange Code
+EBW — Electron Beam Welding
+EC — EICAS Computer
+
+ECAM — Electronic Centralized Aircraft Monitor
+ECCM — Electronic Counter Countermeasure
+ECL — Emitter-Coupled Logic
+ECM — Electro-Chemical Machining
+ECM — Electronic Countermeasures
+ECS — Environmental Control System
+ECTL — Emitter-Coupled Transistor Logic
+E/D — End of Descent
+EDCT — Expected Departure Clearance Time
+EDM — Electro-Discharge Machining
+EDPS — Electronic Data Processing System
+EDSP — EICAS Display Select Panel
+EDT — Eastern Daylight Time
+EDU — EICAS Display Unit
+EEC — Electronic Engine Control
+EELV — Evolved Expendable Launch Vehicle
+EE-PROM — Electrically Erasable Programmable Read Only Memory
+EFAS — En Route Flight Advisory Service
+EFB — Electronic Flight Bag
+EFC — Expect Further Clearance
+EFCU — Electronic Flight Control Unit
+EFD — Electronic Flight Display
+EFI — Electronic Flight Instruments
+EFIS — Electronic Flight Instrument System
+EFISCP — Electronic Flight Instrument System Control Panel
+
+EFISCU — Electronic Flight Instrument System Comparator Unit
+EFISSG — Electronic Flight Instrument System Signal Generator
+EFL — Emitter-Follower Logic
+EFM — Enhanced Fighter Maneuverability
+EFOGM — Enhanced Fiber Optic Guided Missile
+EFV — Enhanced Flight Visibility
+EFVS — Enhanced Flight Vision System
+EGNOS — European Geostationary Navigation Overlay System
+EGPWS — Enhanced Ground Proximity Warning Systems
+EGT — Exhaust Gas Temperature
+EHF — Extremely High Frequency
+EHP — Equivalent Horsepower
+EHSI — Electronic Horizontal Situation Indicator
+EHSID — Electronic Horizontal Situation Indicator Display
+EHSV — Electro-Hydraulic Servo Valve
+EIA — Electronic Industries Association
+EICAS — Engine Indicating and Crew Alerting System
+EIU — EFIS/EICAS Interface Units
+ELCU — Electrical Load Control Unit
+ELT — Emergency Locator Transmitter
+EMALS — Electromagnetic Aircraft Launch Systems
+EMAS — Engineered Materials Arresting System
+EMFI — Electromechanical Flight Instruments
+EMI — ElectroMagnetic Interference
+EMP — Electromagnetic Pulse
+
+EMS — Emergency Medical Service
+EMSAW — En Route Minimum Safe Altitude Warning
+EO — Electro-Optical
+EOPs — Engine Out Procedures
+EOVM — Emergency Obstruction Video Map
+EOW — Empty Operating Weight
+EP — External Power
+EPE — Estimated Position Error
+EPNdB — Equivalent Perceived Noise Decibels
+EPR — Engine Pressure Ratio
+EPROM — Erasable Programmable Read Only Memory
+EPS — Engineered Performance Standards
+EPU — Emergency Power Unit
+ER-OPS — Extended Range Operations
+ERU — Explosion Release Unit
+ESA — European Space Agency
+ESC — Electronic Speed Controller
+ESCAT — Emergency Security Control of Air Traffic
+ESD — Electrostatic Discharge
+ESHP — Equivalent Shaft Horsepower
+ESOP — Employee Stock Ownership Plan
+ESP — En Route Spacing Program
+EST — Eastern Standard Time
+ETA — Estimated Time of Arrival
+ETD — Estimated Time of Departure
+
+ETE — Estimated Time En route
+ETMS — Enhanced Traffic Management System
+ETOPS — Extended Operations
+EV — Enhanced Vision
+EVA — Extravehicular Activity
+EVLOS — Extended Visual Line-Of-Sight
+EVO — Equivalent Visual Operations
+EVS — Electro-Optical Viewing System
+EVS — Enhanced Vision System
+EW — Electronic Warfare
+EWINS — Enhanced Weather Information System
+EWIS — Electrical Wiring Interconnection System
+EX LOC — Extended Localizer
+
+F
+FA — Area weather forecast
+FA — Final Approach
+FAA — Federal Aviation Administration
+FAC — Final Approach Course
+FAC — Flight Augmentation Computer
+FAD — Fuel Advisory Departure
+FADEC — Full-Authority Digital Engine Control
+FAE — Fuel-Air Explosive
+FAF — Final Approach Fix
+FAMOS — Floating-gate
+semiconductor
+
+Avalanche-injection
+
+Metal
+
+Oxide
+
+Silicon
+
+FAO — Finish All Over
+FAP — Final Approach Point
+FAR — Federal Aviation Regulations
+FAROS — Final Approach Runway Occupancy Signal
+FATO — Final Approach and Takeoff Area
+FAWP — Final Approach Waypoint
+FAWS — Flight Advisory Weather Service
+FB — Fly-By
+FB — Winds and temperature aloft forecast
+FBL — Fly by Light
+FBO — Fixed Base Operator
+FBW — Fly by Wire
+FBWP — Fly-By WayPoint
+FCC — Federal Communications Commission
+FCC — Flight Control Computer
+FCES — Flight Control Electronic System
+FCEU — Flight Control Electronic Unit
+FCLT — Freeze Calculated Landing Time
+FCU — Flight Control Unit
+FD — Flight Director
+FDC — Flight Data Center
+FDC NOTAM — Flight Data Center Notice to Airmen
+FDE — Fault Detection and Exclusion
+FDE — Flight Deck Effect
+FDEP — Flight Data Entry Panel
+
+FDI — Flight Director Indicator
+FDIO — Flight Data Input/Output
+FDP — Flight Data Processing
+FDP — Flight Duty Period
+FDR — Flight Data Recorder
+FDS — Flight Display Screen
+FE — Flight Engineer
+FED — Field Effect Device
+FET — Field Effect Transistor
+FF — Feeder Fault
+FFP2 — Free Flight Phase 2
+FFS — Full flight simulator
+FGS — Flight Guidance System
+FHP — Friction Horsepower
+FICON — Field Condition
+FIFO — First-In First-Out
+FIM — Fault Isolation Monitoring
+FIM — Flight Information Manual
+FIR — Flight Information Region
+FIRC — Flight Instructor Refresher Clinic
+FIS — Flight Instrument System
+FIS-B — Flight Information Service – Broadcast
+FISDL — Flight Information Services Data Link
+FITS — FAA/Industry Training Standards
+FL — Flight Level
+
+FL CHG — Flight Level Change
+FLIP — FLight Information Publication
+FLIR — Forward-Looking Infra-Red System
+FM — Fan Marker
+FM — Frequency Modulation
+FMA — Flight Mode Annunciator
+FMC — Flight Management Computer
+FMCDU — Flight Management Computer Display Unit
+FMCS — Flight Management Computer System
+FMCU — Flight Management Computer Unit
+FMS — Flight Management System
+FO — Fly-Over
+FOD — Foreign Object Damage
+FODTS — Fiber-Optic Data Transmission System
+FOI — Fundamentals of Instruction
+FOM — Flight Operations Manual
+FOWP — Fly-Over WayPoint
+FPA — Flight Path Angle
+FPARC — Flight Path Angle Reference Cue
+FPC — Fuel Performance Computer
+FPLA — Field-Program Logic Array
+FPM — Feet per Minute
+FPM — Flap Position Module
+FPNM — Feet per Nautical Mile
+FPR — Fan Pressure Ratio
+
+F-PROM — Field-Programmable Read Only Memory
+FPS — Feet Per Second
+FPV — First-Person View
+FPV — Flight Path Vector
+FRC — Full Route Clearance
+FREQ — Frequency
+FRMS — Fatigue Risk Management System
+FSB — Flight Standardization Board
+FSDO — Flight Standards District Office
+FSEU — Flap/Slot Electronic Unit
+FSL — NOAA Forecast Systems Laboratory
+FSPD — Freeze Speed Parameter
+FSS — Flight Service Station
+FSTD — Flight simulation training device
+FTD — Flight Training Device
+FTR — Force Trim Release
+FVC — Frequency-to-Voltage Converter
+FWC — Flight Warning Computer
+FWD — Forward
+
+G
+G — Gravity
+GA — General Aviation
+GA — Go Around
+GaAsFET — Gallium-Arsenic Field Effect Transistor
+
+GADO — General Aviation District Office
+GAMA — General Aviation Manufacturers Association
+GAO — General Accounting Office
+GAPA — Ground-to-Air Pilotless Aircraft
+GBAS — Ground-Based Augmentation System
+GC — Ground Control
+GCA — Ground Controlled Approach
+GCB — Generator Circuit Breaker
+GCO — Ground Communication Outlet
+GCR — Generator Control Relay
+GCS — Ground Control Station
+GCU — Generator Control Unit
+GCU — Gimbal Control Unit
+GD — General Dynamics
+GDP — Ground Delay Programs
+GDPE — Ground Delay Program Enhancements
+GEN — Generator
+GEO — Geostationary Satellite
+GFA — Graphical Forecast for Aviation
+GFET — Gate Field Effect Transistor
+GFRP — Glass Fiber Reinforced Plastic
+GHz — Gigahertz
+GIS — Geographic Information System
+GLONASS — GLobal Orbiting Navigation Satellite System
+GLS — GNSS Landing System
+
+GMT — Greenwich Mean Time
+GNC — Guidance, Navigation, and Control
+GND — Ground
+GND PWR — Ground Power
+GND RET — Ground Return
+GND SVC — Ground Service
+GNE — Gross Navigation Error
+GNSS — Global Navigation Satellite System
+GOES — Geostationary Operational Environmental Satellite
+GPH — Gallons Per Hour
+GPIO — General Purpose Input/Output
+GPO — Government Printing Office
+GPS — Global Positioning System
+GPSS — Global Positioning System Steering
+GPSW — Gear Position Switch
+GPU — Ground Power Unit
+GPWS — Ground Proximity Warning System
+GRD — Ground
+GS — Glide Slope
+GS — Ground Speed
+GSE — Ground Support Equipment
+GSR — Ground Service Relay
+GSTR — Ground Service Transfer Relay
+GTOSCR — Gate and Turn-Off Silicon Controlled Rectifier
+GUI — Graphical User Interface
+
+GUS — Ground Uplink Station
+GW — Gross Weight
+GWS — Graphical Weather Service
+
+H
+HAA — Height Above Airport
+HAL — Height Above Landing
+HALE — High-Altitude Long-Endurance
+HAR — High Altitude Redesign
+HARM — High-speed Anti-Radiation Missile
+HARS — Heading and Attitude Reference System
+HARV — Hybrid Augmented Reusable Vehicle
+HAT — Height Above Touchdown
+HAZMAT — Hazardous Materials
+HCL — Horizontal Component of Lift
+HCMOS — High-density Complementary Metal Oxide Silicon semiconductor
+HDD — Head-Down Display
+HEMS — Helicopter Emergency Medical Services
+HF — High Frequency
+HFA — High-Frequency Radio Antenna
+HFDL — High Frequency Data Link
+HGS — Head-up Guidance System
+HIALS — High-Intensity Approach Light System
+HIC — Hybrid Integrated Circuit
+HIIC — High-Isolation Integrated Circuit
+
+HiMAT — Highly Maneuverable Aircraft Technology
+HIRL — High Intensity Runway Light System
+HITS — Highway In The Sky
+HIWAS — Hazardous In-flight Weather Advisory Service
+HI Z — High Impedance
+HLTTL — High-Level Transistor-Transistor Logic
+HMD — Helmet-Mounted/Head-Mounted Display
+HMI — Human-Machine Interface
+HMOS — High-Performance Metal Oxide Silicon semiconductor
+HNIL — High Noise Immunity Logic
+HOBOS — Homing Bomb System
+HOCSR — Host/Oceanic Computer System Replacement
+HOTAS — Hands-on-Throttle-and-Stick
+HP — High Performance
+HP — High Pressure
+hp — Horsepower
+HS — Heading Select
+HSCT — High-Speed Civil Transport
+HSI — Horizontal Situation Indicator
+HT — High Tension
+HTFD — Hybrid Thick Film Device
+HTL — High-Threshold Logic
+HTOL — Horizontal Takeoff and Landing
+HTP — High-Test Peroxide
+HUD — Head-Up Display
+
+HVOR — High VOR
+HVPS — High-Voltage Power Supply
+Hz — Hertz
+
+I
+IA — Indicated Airspeed
+IA — Indicated Altitude
+IA — Inspection Authorization
+IA — Intercept Angle
+IAC — Instrument Approach Chart
+IAE — International Aero Engines
+IAF — Initial Approach Fix
+IAI — Israel Aircraft Industries
+IAM — International Association of Machinists and Aerospace Workers
+IAP — Instrument Approach Procedure
+IAPS — Integrated Avionics Processor System
+IAS — Indicated Airspeed
+IATA — International Air Transportation Association
+IAWP — Initial Approach Waypoint
+IBM — International Business Machines
+IC — Integrated Circuit
+ICA — Initial Climb Area
+ICAO — International Civil Aviation Organization
+ICU — Instrument Comparator Unit
+IDECM — Integrated Defensive Electronic Countermeasures
+
+IDG — Integrated Drive Generator
+IDS — Integrated Display System
+IDS — Interdiction Strike
+IEEE — Institute of Electrical and Electronics Engineers
+IEPR — Integrated Engine Pressure Ratio
+IF — Intermediate Fix
+IF — Intermediate Frequency
+IFF — Identification—Friend or Foe
+IF/IAWP — intermediate fix/initial approach waypoint
+IFIM — International Flight Information Manual
+IFR — Instrument Flight Rules
+IFSD — In-flight shutdown
+IFSS — International Flight Service Station
+IFWP — Intermediate Fix Waypoint
+IGFET — Insulated Gate Field Effect Transistor
+IGI — Instrument Ground Instructor
+IGN — Ignition
+IGV — Inlet Guide Vanes
+IHP — Indicated Horsepower
+IHS — Integrated Heat Sink
+IIL, I2L — Integrated Injection Logic
+IIMC — Inadvertent Instrument Meteorological Conditions
+IIR — Imaging Infra-Red
+IIS — Integrated Instrument System
+ILP — Integral Lead Package
+
+ILS — Instrument Landing System
+ILS OC — Instrument Landing System On Course
+ILS/PRM — Instrument Landing System/Precision Runway Monitor
+IM — ILS Inner Marker
+IMC — Instrument Meteorological Conditions
+IMINT — Imagery Intelligence
+IMO — International Meteorological Organization
+IMPATT — Impact Avalanche Transit Time
+IMU — Inertial Measurement Unit
+InFO — Information For Operators
+In. Hg. — Inches of Mercury
+INREQ — Information Request
+INS — Inertial Navigation System
+INST — Instrument
+INT — Intersection
+INTFC — Interface
+INTPH — Interphone
+INTR — Interrogation
+INV — Inverter
+INWP — Intermediate Waypoint
+I/O — Input/Output
+IOAT — Indicated Outside Air Temperature
+IOC — Initial Operational Capability
+IOC — Input/Output Concentrator
+IP — Intermediate Pressure
+
+IPN — Iso Propyl Nitrate
+IPV — Instrument Procedure with Vertical guidance
+IR — IFR Military Training Routes
+IR — Infrared
+IRAN — Inspect and Repair As Necessary
+IRBM — Intermediate Range Ballistic Missile
+IRCM — Infra-Red Counter Measures
+IRMP — Internal Reference Mode Panel
+IRS — Inertial Reference System
+IRST — Infra-Red Search/Track
+IRU — Inertial Reference Unit
+IRVR — Instrument Runway Visual Range
+ISA — Instrument Society of America
+ISA — International Standard Atmosphere
+ISAR — Inverse Synthetic Aperture Radar
+ISIS — Integrated Sight and Interception System
+ISM — Industrial, Scientific, and Medical
+ISO — International Standards Organization
+ISR — Intelligence, Surveillance, and Reconnaissance
+ISS — Inertial Sensing System
+ISS — Instrument Source Select
+ITALD — Improved Tactical Air-Launched Decoy
+ITAR — International Traffic in Arms Regulations
+IVS — Instantaneous Vertical Speed
+IVSI — Instantaneous Vertical Speed Indicator
+
+IVV — Instantaneous Vertical Velocity
+IWP — Intermediate Waypoint
+
+J
+JAL — Japan Air Lines
+JAR — Joint Airworthiness Requirements
+JAST — Joint Advanced Strike Technology
+JATO — Jet Assisted Takeoff
+JDAM — Joint Direct Attack Munition
+JFET — Junction Field Effect Transistor
+JMCIS — Joint Maritime Command Information System
+JPATS — Joint Primary Aircraft Training System
+JPL — Jet Propulsion Laboratory
+JPT — Jet Pipe Temperature
+JROC — Joint Requirements Oversight Committee
+JSOW — Joint Stand-Off Weapon
+JTIDS — Joint Tactical Information Distribution System
+
+K
+KCAS — Knots Calibrated Airspeed
+kHz — Kilohertz
+KIAS — Knots Indicated Airspeed
+KMH — Kilometers per Hour
+KTAS — Knots True Airspeed
+KV — Kilovolts
+KVA — Kilovolt-Amps
+
+KVAR — Kilovolt-Amps Reactive
+
+L
+LAA — Local Airport Advisory
+LAAS — Local Area Augmentation System
+LAAS — Low Altitude Alert System
+LAHSO — Landing and Hold Short Operation
+LANTIRN — Low-Altitude Navigation Targeting Infra-Red for Night
+LAPADS — Light-weight Acoustic Processing and Display System
+LAPC — Laptop Auxiliary Performance Computer
+LAPUT — Light-Activated Programmable Unijunction Transistor
+LARAM — Light-Addressed Random Access Memory
+LASCAR — Light-Activated Silicon Controlled Rectifier
+LAU — Linear Accelerometer Unit
+LAWRS — Limited Aviation Weather Reporting Station
+LBA — Lifting Body Airship
+LBS — Lateral Beam Sensor
+LCD — Liquid Crystal Display
+L/D — Lift/Drag ratio
+LD — Load
+LDA — Landing Distance Available
+LDA — Localizer-type Directional Aid
+LED — Light Emitting Diode
+LEMAC — Leading Edge of the Mean Aerodynamic Chord
+LERX — Leading Edge Root Extensions
+
+LEX — Leading Edge Extensions
+L/F — Load Factor
+LF — Low Frequency
+LFC — Level of Free Convection
+LFR — Low-Frequency Radio Range
+LGB — Laser-guided Glide Bombs
+LIC — Linear Integrated Circuit
+LiDAR — Light Detection And Ranging
+LIFO — Last In First Out
+Li-ion — Lithium-ion
+LINS — Laser Inertial Navigation System
+Li-Po — Lithium-Polymer
+LIRL — Low-Intensity Runway edge Lights
+LL — Logic Level
+LLTV — Low-Light Television
+LLWAS — Low Level Windshear Alert System
+L/MF — Low or medium frequency
+LMM — Compass Locator at the Middle Marker
+LMT — Local Mean Time
+LNAV — Lateral Navigation
+LO — Locator Outer marker
+LOA — Letter Of Authorization
+LOFT — Line Oriented Flight Training
+LOX — Liquid Oxygen
+LO Z — Low Impedance
+
+LOC — ILS Localizer
+LOCMOS —
+semiconductor
+
+Local Oxidation
+
+Complementary Metal Oxide Silicon
+
+LOE — Line Operating Experience
+LOM — Locator Outer Marker (Compass Locator at the Outer Marker)
+LOP — Line of Position
+LORAN — Long Range Navigation
+LP — Localizer Performance
+LP — Low Pressure
+LPV — Lateral Precision Performance with Vertical guidance
+LR — Lapse Rate
+LRE — Launch and Recovery Element
+LRCO — Limited Remote Communications Outlet
+LRCS — Long-Range Communication System
+LRMTS — Laser Ranger and Marked Target Seeker
+LRNAV — Long-Range Navigation
+LRNS — Long-Range Navigation System
+LRRA — Low-Range Radar Altimeter
+LRU — Line Replaceable Unit
+LS — Loud Speaker
+LSA — Light-Sport Aircraft
+LSI — Large-Scale Integration
+LSIA — Large-Scale Integration Array
+LSSA — Launch Site Safety Assessment
+LSSAS — Longitudinal Static Stability Augmentation System
+
+LSU — Logic Switching Unit
+LT — Light
+LTA — Lighter-Than-Air
+LTD — Along Track Distance
+LTP — Landing Threshold Point
+LUAW — Line Up And Wait
+LVDT — Linear Voltage Differential Transducer
+LVL CHG — Level Change
+LVPS — Low-Voltage Power Supply
+LZ — Landing Zone
+
+M
+M — Mach number
+MAA — Maximum Authorized IFR Altitude
+MAC — Mean Aerodynamic Chord
+MAD — Magnetic Anomaly Detector
+MAD — Mutually Assured Destruction
+MADGE — Microwave Aircraft Digital Guidance Equipment
+mAh — milliampere hour
+MAHWP — Missed Approach Holding Waypoint
+MALE — Medium-Altitude, Long-Endurance
+MALS — Medium Intensity Approach Light System
+MALSF — Medium intensity Approach Lighting System with sequenced
+Flashing lights
+MALSR — Medium Intensity Approach Light System with Runway alignment
+indicator lights
+
+MALU — Mode Annunciation Logic Unit
+MAMS — Military Airspace Management System
+MANPADS — Man Portable Air Defense Systems
+MAP — Manifold Absolute Pressure
+MAP — Missed Approach Point
+MAP — Mode Annunciator Panel
+MAP — Monitor Alert Parameter
+MAR — Memory Address Register
+MARS — Mid-Air Retrieval System
+MARSA — Military Authority Assumes Responsibility for Separation of
+Aircraft
+MASPS — Minimum Aviation System Performance Specification
+MAV — Micro Air Vehicle
+MAW — Mission Adaptive Wing
+MAWP — Missed Approach Waypoint
+MAWS — Missile Approach Warning System
+MB — Magnetic Bearing
+MB — Marker Beacon
+MBA — Marker Beacon Antenna
+MCA — Minimum Controllable Airspeed
+MCA — Minimum Crossing Altitude
+MCA — Multichip Array
+MCDP — Maintenance Control and Display Panel
+MCE — Mission Control Element
+MCP — Mode Control Panel
+
+MCTMA — Multi-Center Traffic Management Advisor
+MCU — Modular Concept Unit
+MCW — Modulated Continuous Wave
+MD — McDonnell Douglas
+MDA — Minimum Descent Altitude
+MDH — Minimum Descent Height
+MEA — Minimum En route IFR Altitude
+MEADS — Medium Extended Air Defense Systems
+MEAL — Micro-Extended Assembly Language
+MEARTS — Micro-Enroute Automated Radar Tracking System
+MEC — Main Equipment Center
+MEGA — Million
+MEK — Methyl Ethyl Ketone
+MEL — Minimum Equipment List
+MEL — Multi-Engine Land
+MEP — Mean Effective Pressure
+MEPU — Monofuel Emergency Power Unit
+METAR — Aviation Routine Weather Report
+METO — Maximum Except Take-Off (power)
+MF — Medium Frequency
+MFD — Multi-Function Display
+MFT — Meter Fix Time/Slot Time
+MGW — Maximum Gross Weight
+MH — Magnetic Heading
+MHA — Minimum Holding Altitude
+
+MHz — Megahertz
+MIA — Minimum IFR Altitude
+MIALS — Medium Intensity Approach Light System
+MIC — Microphone
+MIC — Monolithic Integrated Circuit
+MICROM — Micro Instruction Control Read Only Memory
+MIDO — Manufacturing Inspection District Office
+MIL — Military
+Milli — One Thousandth
+MIP — Maintenance Information Printer
+MIR — Memory Information Register
+MIRL — Medium Intensity Runway Edge Lights
+MIS — Meteorological Impact Statement
+MIT — Miles-In-Trail
+MKR BCN — Marker Beacon
+MLDI — Meter List Display Interval
+MLS — Microwave Landing System
+MLW — Maximum Landing Weight
+MM — ILS Middle Marker
+MMEL — Master Minimum Equipment List
+MMWR — Millimeter Wave Radar
+MN — Magnetic North
+MNPS — Minimum Navigation Performance Specifications
+MOA — Military Operations Area
+MOCA — Minimum Obstruction Clearance Altitude
+
+MOD — Modulate
+MOPS — Minimum Operational Performance Standards
+MORA — Minimum Off Route Altitude
+MOSFET — Metal Oxide Silicon Field Effect Transistor
+MOSIC — Metal Oxide Silicon Integrated Circuit
+MOST — Metal Oxide Silicon Transistor
+MP — Manifold Pressure
+mP — maritime Polar air
+MPH — Miles Per Hour
+MPU — Microprocessor Unit
+MRA — Minimum Reception Altitude
+MRCA — Multi-Role Combat Aircraft
+MRM — Maintenance Resource Management
+MRV — Maximum Reverse Voltage
+MS — Military Standard
+MSA — Minimum Safe Altitude
+MSA — Minimum Sector Altitude
+MSAW — Minimum Safe Altitude Warning
+MSEC — Millisecond
+MSG — Message
+MSI — Medium Scale Integration
+MSL — Mean Sea Level
+MST — Monolithic System Technology
+MST — Mountain Standard Time
+MSU — Mode Selector Unit
+
+mT — maritime Tropical air
+MTA — Minimum Turning Altitude
+MTBF — Mean Time Between Failures
+MTCA — Minimum Terrain Clearance Altitude
+MTFE — Mid-Thrust Family Engine
+MTI — Moving Target Identification
+MTI — Moving Target Indicator
+MTL — Merger Transistor Logic
+MTOW — Maximum Takeoff Weight
+MTP — Maintenance Test Panel
+MTR — Military Training Route
+µ — Micro
+µ SEC — Microsecond
+MTS — Multi-spectral Targeting System
+MTSAT — Multifunctional Transport Satellite
+MU — Friction value representing runway surface conditions (designation)
+MUX — Multiplexer
+MV — Millivolt
+MVA — Minimum Vectoring Altitude
+MVFR — Marginal VFR
+MWA — Mountain Wave Activity
+MWS — Master Warning System
+MZFW — Maximum Zero Fuel Weight
+
+N
+
+N1 — RPM of low-pressure compressor, or fan
+N2 — RPM of high-pressure, or intermediate-pressure compressor
+N3 — RPM of high-pressure compressor on a triple-spool engine
+NA — Not Authorized
+NAA — National Aeronautical Association
+NACA — National Advisory Committee for Aeronautics
+NACG — National Aeronautical Charting Group
+NAFI — National Association of Flight Instructors
+NAS — National Aircraft Standards
+NAS — National Airspace System
+NASA — National Aeronautics and Space Administration
+NASP — National Aerospace Plane
+NASSI — National Airspace System Status Information
+NAT — North Atlantic
+NATA — National Air Transportation Association, Inc.
+NATO — North Atlantic Treaty Organization
+NAT/OPS — North Atlantic Operation
+NAV — Navigation
+NAVAID — Navigational Aid
+NAV/COM — Navigation and Communication Radio
+NAVWASS — Navigation and Weapon-Aiming Sub System
+NAWAU — National Aviation Weather Advisory Unit
+NBAA — National Business Aircraft Association, Inc.
+NBC — Nuclear, Biological, and Chemical
+NBCAP — National Beacon Code Allocation Plan
+
+NC — No Connection
+NC — Normally Closed
+NC — Numerical Control
+NCAR — National Center for Atmospheric Research
+NCD — No Computed Data
+NCU — Navigation Computer Unit
+ND — Navigation Display
+NDAA — Non-Development Airlift Aircraft
+NDB(ADF) — Non-directional Beacon (Automatic Direction Finder)
+NDRO — Non-Destructive Readout
+NDT — Non-Destructive Testing
+NDVI — Normalized Difference Vegetation Index
+NEG — Negative
+NESDIS — National Environmental Satellite Data and Information Service
+NEXRAD — Next generation weather Radar
+NextGen — Next Generation Air Transportation System
+Nf — RPM of free turbine
+NFDC — National Flight Data Center
+NFDD — National Flight Data Digest
+N-FET — N-type conduction Field Effect Transistor
+NFH — NATO Frigate Helicopter
+NFPO — National Flight Procedures Office
+NGV — Nozzle Guide Vanes
+NHC — National Hurricane Center
+NiCd — Nickel-Cadmium
+
+NIMA — National Imagery and Mapping Agency
+NiMH — Nickel-Metal Hydride
+nm — nanometer
+NM — Nautical Mile
+NMAC — Near Mid-Air Collision
+NMC — National Meteorological Center
+N-MOS — N-Channel Metal Oxide Silicon Semiconductor
+NMPH — Nautical Miles Per Hour
+NNEW — NextGen Network-Enabled Weather
+NOAA — National Oceanic and Atmospheric Administration
+NO A/G — No Air to Ground Communication
+NOC — NAV On Course
+NOPAC — North Pacific
+NoPT — No Procedure Turn Required
+NORDO — No Radio
+NOS — National Ocean Service
+NOT STD — Not Standard
+NOTAM — Notice To Airmen
+NOTAM D — Distant NOTAM
+NOTAR — No Tail Rotor
+NOZ — Normal Operating Zone
+NPA — Nonprecision Approach
+NPB — Nuclear-Powered Bomber
+NPRM — Notice of Proposed Rulemaking
+NPT — National (tapered) Pipe Thread
+
+NRO — National Reconnaissance Office
+NRP — National Route Program
+NRR — Non-Restrictive Routing
+NRS — National Reference System
+NSA — National Security Area
+NSEC — Nanosecond
+NSF — National Science Foundation
+NSSFC — National Severe Storms Forecast Center
+NSSN — National Standards Systems Network
+NTAP — Notice to Airmen Publication
+NTS — Negative Torque Sensor
+NTSB — National Transportation Safety Board
+NTSS — Negative Torque Sensing System
+NTZ — No Transgression Zone
+NVM — Nonvolatile Memory
+NVS — NAS Voice Switch
+NWS — National Weather Service
+
+O
+OALT — Operational Acceptable Level of Traffic
+OAT — Outside Air Temperature
+OBS — Omni Bearing Selector
+OC, O/C — On Course
+OCA — Obstacle Clearance Altitude
+OCS — Obstacle Clearance Surface
+
+OCU — Operational Conversion Unit
+ODA — Organization Designation Authorization
+ODALS — Omnidirectional Approach Lighting Systems
+ODAPS — Oceanic Display and Planning System
+ODP — Obstacle Departure Procedure
+OEI — One Engine Inoperative
+OEM — Original Equipment Manufacturer
+OEP — Operational Evolution Plan
+OF — Over Frequency
+OFT — Outer Fix Time
+OFZ — Obstacle Free Zone
+OIS — Obstacle Identification Surface
+OIS — Operational Information System
+OM — ILS Outer Marker
+OMC — Onboard Maintenance Computer
+ONC — Operational Navigation Charts
+ONER — Oceanic Navigational Error Report
+ONS — Omega Navigation System
+OPA — Optionally Piloted Aircraft
+OP AMP — Operational Amplifier
+OpsCon — Operational Concept
+OpsSpecs — Operations Specifications
+OROCA — Off-Route Obstruction Clearance Altitude
+OS — Operating System
+OSD — On-Screen Display
+
+OSS — Over Station Sensor
+OSV — Operational Service Volume
+OTR — Oceanic Transition Route
+OTS — Organized Track System
+OTS — Out of Service
+OV — Overvoltage
+OVAS — Ocular Vergence and Accommodation Sensor
+
+P
+PA — Passenger Address
+PA — Precision Approach
+PA — Pressure Altitude
+PACOTS — Pacific Organized Track System
+PAFAM — Performance and Failure Assessment Monitor
+PAM — Pulse Amplitude Modulation
+PAm — Ambient Pressure
+PAMA — Professional Aviation Maintenance Association
+PAPI — Precision Approach Path Indicator
+PAR — Precision Approach Radar
+PAR — Preferential Arrival Route
+PARA/SER — Parallel-to-Serial
+PAS — Performance Advisory System
+P ATT — Pitch Attitude
+PATWAS — Pilots Automatic Telephone Weather Answering Service
+PAX — Passengers
+
+PB — Burner Pressure
+PBB — Pitch Bar Bias
+PBCT — Proposed Boundary Crossing Time
+PBE — Protective Breathing Equipment
+PBN — Performance Based Navigation
+PC — Personal Computer
+PC — Proficiency Check
+PCA — Power Control Actuator
+PCB — Plenum Chamber Burning
+PCB — Printed Circuit Board
+PCCD — Profiled Charge-Coupled Device
+PCG — Positive Course Guidance
+PCL — Pilot Controlled Lighting
+PCM — Pulse-Code Modulation
+PCPL — Pitch Couple
+PCU — Power Control Unit
+PCWS — Pitch Control Wheel Steering
+PDAR — Preferential Departure and Arrival Route
+PDB — Power Distribution Board
+PDC — Pre-Departure Clearance
+PDCS — Performance Data Computer System
+PDO — Phosphorus-Doped Oxide
+PDR — Preferential Departure Route
+PDT — Pacific Daylight Time
+PDU — Pilot’s Display Unit
+
+PECO — Pitch Erection Cutoff
+PED — Portable Electronic Device
+PELS — Precision Emitter Location System
+PF — Pilot Flying
+pFAST — Passive Final Approach Spacing Tool
+PFD — Primary Flight Display
+P-FET — P-type conduction Field Effect Transistor
+PGM — Precision Guided Munition
+P Hold — Pitch Hold
+Phot-SCR — Photosensitive Silicon Controlled Rectifier
+PI — Principal Inspector
+PIBAL — Pilot Balloon Observation
+PIC — Pilot In Command
+PID — Portional-Integral-Derivative
+PIDP — Programmable Indicator Data Processor
+PinS — Point-in-Space
+PIO — Pilot Induced Oscillation
+PIREP — Pilot Report
+PIU — Peripheral Interface Unit
+PJFET — P-type Junction-conduction Field Effect Transistor
+PKI — Public/Private Key Infrastructure/Technology
+PLA — Power Lever Angle
+PLA — Programmable Logic Array
+PLL — Phase-Locked Loop
+PM — Phase Modulated
+
+PM — Pilot Monitoring
+PMA — Parts Manufacturer Approval
+PMAT — Portable Maintenance Access Terminal
+PMB — Plastic Media Blasting
+PMOS — P-type Metal Oxide Silicon semiconductor
+PMS — Performance Management System
+PNCS — Performance Navigation Computer System
+PND — Primary Navigation Display
+PNF — Pilot Not Flying
+POC — Portable Oxygen Concentrator
+POFZ — Precision Obstacle Free Zone
+POH — Pilot’s Operating Handbook
+POI — Principle Operations Inspector
+POS — Positive
+POT — Potentiometer
+PPC — Powered parachute
+PPI — Plan Position Indicator
+PPM — Parts Per Million
+PPM — Pulse Position Module
+PR — Pressure Ratio
+PRA — Precision Radar Approach
+PRAM — Programmable Analog Module
+PRF — Pulse Repetition Frequency
+PRL — Parallel
+PRM — Precision Runway Monitor
+
+P-RNAV — European Precision RNAV
+PROM — Programmable Read Only Memory
+PROX — Proximity
+PRR — Pulse Repetition Rate
+PRT — Power Recovery Turbine
+P-S — Parallel-to-Serial
+PS — Power Supply
+PSAS — Pitch Stability Augmentation System
+PSEU — Proximity Switch Electronic Unit
+psi — Pounds per square inch
+psia — Pounds per square inch, absolute
+psid — Pounds per square inch, differential
+psig — Pounds per square inch, gage
+PSL — Polycrystalline Silicon Layer
+PSM — Power Supply Module
+PSO — Phase Shift Oscillator
+PST — Pacific Standard Time
+PSU — Passenger Service Unit
+PSU — Power Supply Unit
+P SYNC — Pitch Synchronization
+PT — Procedure Turn
+PT — Total Pressure
+PTD — Propagation Time Delay
+PTH — Plated-Through Hole
+PTM — Pulse Time Modulation
+
+PTP — Point-To-Point
+PTR — Part-Throttle Reheat
+PTRS — Performance Tracking and Reporting System
+PTS — Practical Test Standards
+PTT — Push To Talk
+PVASI — Pulsating Visual Approach Slope Indicator
+PVD — Plan View Display
+PW — Pratt & Whitney
+PWI — Proximity Warning Indicator
+PWM — Pulse Width Modulation
+PWR — Power
+PWR SPLY — Power Supply
+
+Q
+QAR — Quick Access Recorder
+QEC — Quick Engine Change
+QECA — Quick Engine Change Assembly
+QFE — Transition Height
+QNE — Transition Level
+QNH — Transition Altitude
+
+R
+RA — Radio Altimeter
+RA — Radio Altitude
+RA — Resolution Advisory
+RAA — Regional Airline Association
+
+RAD — Radio
+R&D — Research and Development
+RADAR — Radio Detection And Ranging
+RADS — Retardant Aerial Delivery System
+RAF — Royal Air Force
+RAIL — Runway Alignment Indicator Lights
+RAIM — Receiver Autonomous Integrity Monitoring
+RAIND — Radio Altimeter Indicator
+RAIS — Remote Airport Information Service
+RAL — Research Applications Laboratory (part of NCAR)
+RALU — Register and Arithmetic Logic Unit
+RAM — Random Access Memory
+RAOB — Radarsonde Observation
+RAPCON — Radar Approach Control
+RAREP — Radar Weather Report
+RAS — Random Access Store
+RAT — Ram Air Turbine
+RATO — Rocket Assisted Takeoff
+RATR — Radio Altimeter Transmitter/Receiver
+RB — Relative Bearing
+RBA — Radio Bearing Annunciator
+RBB — Roll Bar Bias
+RBI — Relative Bearing Indicator
+RBN — Radio Beacon
+RC — Radio Controlled
+
+RCAM — Runway Condition Assessment Matrix
+RCC — Rescue Coordination Center
+RCCB — Remote Control Circuit Breaker
+RCLM — Runway Center Line Markings
+RCLS — Runway Center Line Light System
+RCO — Remote Communications Outlet
+RCPL — Roll Coupled
+RCR — Runway Condition Reading
+RCTL — Resistance-Coupled Transistor Logic
+RCVR — Receiver
+RCVR/XMTR — Receiver/Transmitter
+RCWS — Roll Control Wheel Steering
+RDF — Radio Direction Finder
+RDMI — Radio Direction Magnetic Indicator
+RDOF — Radio Failure
+RDP — Radar Data Processing
+REIL — Runway End Identifier/Identification Lights
+REV/C — Reverse Course
+RF CYCLE — Refresh Cycle
+RF — Radio Frequency
+RFFS — Rescue and firefighting services
+RFI — Radio Frequency Interference
+R/HOLD — Roll Hold
+RJ — Regional Jet
+RLC — Radial-Lead Capacitor
+
+RLS — Remote Light Sensor
+RLV — Reusable Launch Vehicle
+RMI — Radio Magnetic Indicator
+RNAV — Area Navigation
+RNP — Required Navigation Performance
+ROB — Radar Observation
+ROC — Required Obstacle Clearance
+ROM — Read Only Memory
+RPA — Remote Piloted Aircraft
+RPAT — RNP Parallel Approach Runway Transitions
+RPM — Revenue Passenger Mile
+RPM — Revolutions Per Minute
+RPS — Revolutions Per Second
+RPV — Remotely Piloted Vehicle
+RR — Radio Range, low- or medium-frequency
+RR — Road Reconnaissance
+RSAS — Roll Stability Augmentation System
+RSP — Runway Safety Program
+RSS — Relaxed Static Stability
+RSSI — Received Signal Strength Indication
+RSU — Remote Switching Unit
+R/T or RT — Receiver/Transmitter
+RTB — Return To Base
+RTCA — Radio Technical Commission for Aeronautics
+RTF — Ready-To-Fly
+
+RTL — Resistor-Transistor Logic
+RTL — Return To Land
+RTM — Rolls-Royce-Turbomeca
+RTR — Remote Transmitter/Receiver
+RTU — Radio Tuning Unit
+RVDT — Rotary Voltage Differential Transmitter
+RVR — Runway Visual Range
+RVSM — Reduced Vertical Separation Minimums
+RVV — Runway Visibility Values
+R/W — Read/Write
+RW — Relative Wind
+RWR — Radar Warning Receiver
+RWY — Runway
+RWYCC — Runway Condition Code
+RWY WP — Runway Waypoint
+RX — Receiver
+
+S
+SA — Selective Availability
+SA — Situational Awareness
+SAAAR — Special Aircraft and Aircrew Authorization Required
+SAC — Special Airworthiness Certificate
+SAC-EC — Special Airworthiness Certificate—Experimental Category
+SAC-RC — Special Airworthiness Certificate—Restricted Category
+SAE — Society of Automotive Engineers
+
+SAFO — Safety Alerts For Operators
+SAI — Standby Attitude Indicator
+SALR — Saturated Adiabatic Lapse Rate
+SALS — Short Approach Lighting System
+SALSF — Short Approach Lighting System with sequenced Flashing lights
+SAM — Stabilizer Aileron Module
+SAM — Surface-to-Air Missile
+SAMS — Special Use Airspace Management System
+SAPT — Service Availability Prediction Tool
+SAR — Search and Rescue
+SAR — Synthetic Aperture Radar
+SARB — Search and Rescue Beacon
+SARH — Semi-Active Radar Homing
+SARPs — Standards and Recommended Practices
+SAS — Stability Augmentation System
+SAS — Synthetic Aperture Sonar
+SATCOM — Satellite Communications
+SATNAV — SATellite NAVigation
+SAWRS — Supplemental Aviation Weather Reporting Station
+SB — Service Bulletin
+SBAS — Satellite-Based Augmentation Systems
+SBS — Silicon Bilateral Switch
+SBT — Scenario-Based Training
+SC — Single Crystal
+SCAT — Speed Command of Attitude and Thrust
+
+SCDX — Solid-State Control Differential Transmitter
+SCM — Spoiler/Speed Brake Control Module
+SCR — Silicon Controlled Rectifier
+SDC — Synchro-to-Digital Converter
+SDF — Simplified Directional Facility
+SDK — Software Development Kit
+SDR — Service Difficulty Reports
+SECNOT — Security Notice
+SELCAL — Selective Calling
+SEM — Scanning Electron Microscope
+SER — Start End of Runway
+SFA — Single Frequency Approach
+SFAR — Special Federal Aviation Regulation
+SFC — Specific Fuel Consumption
+SFCC — Slat/Flap Control Computer
+SFO — Simulated Flameout
+SFRA — Special Flight Rules Area
+SFSS — Satellite Field Service Station
+SG — Specific Gravity
+SG — Symbol Generator
+SGU — Symbol Generator Unit
+SHF — Super-High Frequency
+SHORAN — Short Range Navigation
+SIAP — Standard Instrument Approach Procedure
+SIC — Silicon Integrated Circuit
+
+SIDA — Security Identification Display Area
+SID — Standard Instrument Departure
+Si-gate MOS — Silicon-gate Metal Oxide Silicon semiconductor
+SIGINT — Signals Intelligence
+SIGMET — Significant Meteorological Advisory
+SIL — Single In-Line
+SIP — Single In-Line Package
+SLAMMR — Side-Looking Advanced Multimode Maritime Radar
+SLAR — Sideways Looking Airborne Radar
+SLS — Satellite Landing System
+S-LSA — Special Light-Sport Aircraft
+SM — Statute Mile
+SMA — Surface Movement Advisor
+SMGCS — Surface Movement Guidance Control System
+SMI — Static Memory Interface
+SMS — Surface Management System
+S/MTD — STOL and Maneuvering Technology Demonstrator
+SNR — Signal-to-Noise Ratio
+S/N RATIO — Signal-to-Noise Ratio
+SOIA — Simultaneous Offset Instrument Approaches
+SOL — Solenoid
+SOM — Start of Message
+SOP — Standard Operating Procedure
+SOS — Silicon-on-Sapphire
+SOT — Start of Transmission
+
+SPAN — Stored Program Alphanumeric
+SPECI — Non-routine (special) aviation weather report
+SPDT — Single-Pole Double-Throw
+SPF — Super Plastic Forming
+SPKR — Speaker
+SPR — Software Problem Report
+SPST — Single-Pole Single-Throw
+SQL — Squelch
+SR — Status Register
+SRA — Surveillance Radar Approach
+SRB — Solid Rocket Booster
+SRD — Shift Register Decoder
+SRM — Single-Pilot Resource Management
+SRP — Selected Reference Point
+SRT — Shift Register Transistor
+SS — Slow Slew
+SSALF — Simplified Short Approach Light system with sequenced Flashing
+lights
+SSALS — Simplified Short Approach Light System
+SSALSR — Simplified Short Approach Light System with runway alignment
+indicator lights
+SSB — Single Sideband
+SSB — Supersonic Bomber
+SSCT — Solid-State Control Transformer
+SSD — Static Sensitive Device
+SSEC — Static Source Error Correction
+
+SSR — Secondary Surveillance Radar
+SSR — Solid State Relay
+SST — Supersonic Transport
+SSTO — Single-Stage To Orbit
+SSV — Standard Service Volume
+ST — Synchro Transmitter
+STA — Scheduled Time of Arrival
+STAC — Supersonic Transport Aircraft Committee
+STAR — Standard Terminal Arrival Route
+STARS — Standard Terminal Automation Replacement System
+STBY — Standby
+STC — Sensitivity Time Control
+STC — Supplemental Type Certificate
+STCM — Stabilizer Trim Control Module
+STEM — Shaped-Tube Electrolytic Machining
+STMP — Special Traffic Management Program
+STOL — Short Takeoff and Landing
+STOVL — Short Takeoff, Vertical Landing
+STS — Status
+STTL — Schottky Transistor-Transistor Logic
+SUA — Special Use Airspace
+SUA/ISE — Special Use Airspace/Inflight Service Enhancement
+sUA — Small Unmanned Aircraft
+sUAS — Small Unmanned Aircraft System
+SUP — Suspect/Unapproved Part
+
+SURPIC — Surface Picture
+SVFR — Special Visual Flight Rules
+SVS — Synthetic Vision System
+SW — Switch
+SWAP — Severe Weather Avoidance Plan
+SWIM — System Wide Information Management
+SYM GEN — Symbol Generator
+
+T
+TA — Traffic Advisory
+TAA — Technically Advanced Aircraft
+TAA — Terminal Arrival Area
+TAAS — Terminal Advanced Automation System
+TAC — TACAN
+TAC — Terminal Area Chart
+TACAN — UHF Tactical Air Navigation
+TACEVAL — Tactical Evaluation
+TADS — Target Acquisition and Designation System
+TAF — Terminal Aviation Forecast
+TALPA — Takeoff and Landing Performance Assessment
+TANS — Tactical Air Navigation System
+TAOARC — Terminal Area Operations Aviation Rulemaking Committee
+TAP — Technically Advanced Pilot
+TAS — Terminal Automation System
+TAS — True Airspeed
+
+TAT — Total Air Temperature
+TAV — Trans-Atmospheric Vehicle
+TAWS — Terrain Awareness Warning System
+TB — Track Bar
+TBDP — Tie Bus Differential Protection
+TBFM — Time Based Flow Management
+TBO — Time Between Overhauls
+T/C — Top of Climb
+TC — Type Certificate
+TCA — Terminal Control Area
+TCAS — Traffic Alert and Collision Avoidance System
+TCC — Thrust Control Computer
+TCDS — Type Certificate Data Sheet
+TCH — Threshold Crossing Height
+TCLT — Tentative Calculated Landing Time
+TCO — Training Course Outline
+TCS — Touch Control Steering
+T/D — Top of Descent
+TDC — Top Dead Center
+TDLS — Terminal Data Link System
+TDM — Time-Division Multiplex
+TDRS — Tracking and Data Relay Satellite
+TDZ — Touchdown Zone
+TDZ/CL — Touchdown Zone and runway Centerline Lighting
+TDZE — Touchdown Zone Elevation
+
+TDZL — Touchdown Zone Lights
+TEB — Tri-Ethyl-Borane
+TEC — Tower Enroute Control
+TEMAC — Trailing Edge of Mean Aerodynamic Chord
+TERCOM — Terrain-Commanded
+TEREC — Tactical Electronic Reconnaissance
+TERPS — United States Standard for Terminal Instrument Procedures
+TET — Turbine Entry Temperature
+TF — Track to Fix
+TFHC — Thin-Film Hybrid Circuit
+TFM — Traffic Flow Management
+TFMS — Traffic Flow Management System
+TFR — Temporary Flight Restriction
+TFR — Terrain-Following Radar
+TFR — Transfer
+TFT — Thin-Film Transistor
+TFX — Tactical Fighter Experimental
+TGT — Turbine Gas Temperature
+THB — Through-Hole Board
+THP — Thrust Horsepower
+TI — Texas Instruments
+TIAS — True Indicated Airspeed
+TIBS — Telephone Information Briefing Service
+TIG — Tungsten Inert Gas
+TIS — Traffic Information Service
+
+TIS–B — Traffic Information Service–Broadcast
+TIT — Turbine Inlet Temperature
+TKE — Track Angle Error
+TLOF — Touchdown and Lift-Off Area
+TM — Traffic Management
+TMC — Thrust Management Computer
+TMS — Thrust Management System
+TMSP — Thrust Mode Select Panel
+TMU — Traffic Management Unit
+TNT — Turbulence in and Near Thunderstorms
+TO — Technical Order
+TOC — Top Of Climb
+TOD — Top Of Descent
+TODA — Takeoff Distance Available (ICAO)
+TOGA — Takeoff/Go Around
+TOI — Track of Interest
+TOPPS — Turbine Overhaul Power Plant Support
+TORA — Takeoff Run Available (ICAO)
+TOT — Turbine Outlet Temperature
+TOW — Tube-launched, Optically-tracked, Wire-guided
+TPA — Traffic Pattern Altitude
+TPP — U.S. Terminal Procedures Publication
+T-R — Transformer-Rectifier
+TRACAB — Terminal Radar Approach Control in Tower Cab
+TRACON — Terminal Radar Approach Control
+
+TRL — Transistor-Resistor Logic
+TRP — Thrust Rating Panel
+TRSA — Terminal Radar Service Area
+TRU — Transformer-Rectifier Unit
+TSE — Total navigation System Error
+TSO — Technical Standard Order
+TSOA — Technical Standing Order Authorization
+TSSAM — Tri-Service Standoff Attack Missile
+TSTO — Two Stage-to-Orbit
+TSU — Telescopic Sighting Unit
+TT — Total Temperature
+TTG — Time To Go
+TTH — Tactical Transport Helicopter
+TTL — Transistor-Transistor Logic
+TTL — Tuned To Localizer
+TTS — Time To Station
+TVCS — Thrust Vectoring Control System
+TVOR — VHF Terminal VOR
+TWA — Trans World Airlines
+TWEB — Transcribed Weather Broadcast
+TWR — Turbulence-detecting Weather Radar
+TWS — Track While Scan
+TWT — Traveling Wave Tube
+TWU — Tactical Weapons Unit
+TXPDR — Transponder
+
+U
+UA — Pilot Report (PIREP)
+UA — Unmanned Aircraft
+UART — Universal Asynchronous Receiver-Transmitter
+UAS — Unmanned Aircraft System
+UAV — Unmanned Aerial Vehicle
+UBR — Utility Bus Relay
+UDF — UnDucted Fan
+UF — Under Frequency
+UFET — Unipolar Field Effect Transistor
+UHF — Ultra High Frequency
+UJT — Unijunction Transistor
+UK — United Kingdom
+UN — United Nations
+UNICOM — Universal Communications
+URET — User Request Evaluation Tool
+USAF — United States Air Force
+USDA — United States Department of Agriculture
+USUA — United States Ultralight Association
+UTC — Coordinated Universal Time
+UUA — Urgent pilot report (message identifier)
+UV — UltraViolet
+UV — Under Voltage
+
+V
+
+V — Voltage
+V1 — Takeoff decision speed
+V2 — Takeoff safety speed
+V2 min — Minimum takeoff safety speed
+VA — Design maneuvering speed
+VA — Volt-Amps
+VAC — Volts, Alternating Current
+VAD — Velocity Azimuth Display
+VAFTAD — Volcanic Ash Forecast Transport And Dispersion
+VAPI — Visual Approach Path Indicator
+VAR — Volt-Amps Reactive
+VAS — Visual Augmentation System
+VASI — Visual Approach Slope Indicator
+VB — Design speed for maximum gust intensity
+VBS — Vertical Beam Sensor
+VC — Design cruise speed
+VC — Variable Cycle
+VCO — Voltage-Controlled Oscillator
+VCOA — Visual Climb Over Airport
+VD — Design diving speed
+VDA — Vertical Descent Angle
+VDC — Volts, Direct Current
+VDF/MDF — Demonstrated flight diving speed
+VDP — Visual Descent Point
+VDR — Voltage Dependent Resistor
+
+VDU — Visual Display Unit
+VF — Design flap speed
+VFC — Voltage-to-Frequency Converter
+VFC/MFC — Maximum speed for stability characteristics
+VFE — Maximum flap-extended speed
+VFR — Visual Flight Rules
+VFTO — Final takeoff speed
+VG — Variable Geometry
+VGSI — Visual Glide Slope Indicator
+VGU — Vertical Gyro Unit
+VH — Maximum level-flight speed with continuous power
+VHF — Very High Frequency
+VHIC — Very High Speed Integrated Circuit
+VIFF — Vectoring in Forward Flight
+VIGV — Variable Inlet Guide Vanes
+VLCT — Very Large Commercial transport
+VLE — Maximum landing gear extended speed
+VLJ — Very Light Jet
+VLF — Very Low Frequency
+VLO — Maximum landing gear operating speed
+VLOF — Lift-off speed
+VLOS — Visual Line of Sight
+VMC — Minimum control speed with critical engine inoperative
+VMC — Visual Meteorological Conditions
+VMINI — Minimum speed–IFR
+
+VMO/MMO — Maximum operating limit speed
+VMOS — Vertical Metal Oxide Silicon semiconductor
+VMU — Minimum unstick speed
+VNAP — Vertical Noise Abatement Procedures
+VNAV — Vertical Navigation
+VNE — Never-exceed speed
+VNEI — Never exceed speed–IFR
+VNO — Maximum structural cruising speed
+VO — Visual Observer
+VOM — Volt-Ohm-Milliammeter
+VOR — Very high frequency Omnidirectional Range
+VOR APPR — VOR Approach
+VOR/DME — Collocated VOR and DME NAVAIDs
+VOR MON — VOR Minimum Operational Network
+VOR OC — VOR On Course
+VORTAC — Colocated VOR and TACAN
+VOT — VOR Test signal, or Test facility
+VPA — Vertical Path Angle
+VR — Rotation speed
+VR — (VFR) military training Route
+VR — Visual Reference
+VR — Volts Regulated
+VRA — Vertical Resolution Advisory
+VREF — Reference landing speed
+VRMS — Volts, Root Mean Square
+
+VS — Stalling speed, or the minimum steady flight speed at which the airplane is
+controllable
+VS — Vertical Speed
+VS0 — Stalling speed in the landing configuration
+VS1 — Stalling speed for a specified flight configuration
+VSCS — Voice Switching and Control System
+VSCU — Vertical Signal Conditioner Unit
+VSI — Vertical Speed Indicator
+VSR — Reference stall speed
+VSR0 — Reference stall speed in the landing configuration
+VSR1 — Reference stall speed in a specific configuration
+VSTOL — Vertical or Short Takeoff and Landing
+VSV — Variable Stator Vanes
+VSW — Speed at which onset of natural or artificial stall warning occurs
+VSWR — Voltage Standing Wave Ratio
+VT — Terminal Velocity
+VTA — Vertex Time of Arrival
+VTAS — Visual Target Acquisition System
+VTF — Vector To Final
+VTL — Variable Threshold Logic
+VTOL — Vertical Take Off and Landing
+VTOSS — Takeoff safety speed for Category A rotorcraft
+VVI — Vertical Velocity Indicator
+VWS — Visual Warning System
+VX — Speed for best angle of climb
+
+VXSE — Best angle of climb speed with one engine inoperative
+VY — Speed for best rate of climb
+
+W
+W — Watts
+WA — AIRMET
+WAAS — Wide-Area Augmentation System
+WAC — World Aeronautical Charts
+WAM — Wide Area Multilateration
+WARN — Warning
+WARP — Weather and Radar Processing
+WCA — Wind Correction Angle
+WCMD — Wind Corrected Munitions Dispenser
+WCP — Weather Radar Control Panel
+WD — Wind Direction angle
+WEA — Weather
+WFO — Weather Forecast Office
+WILCO — Will Comply
+WMO — World Meteorological Organization
+WMS — Wide-area Master Station
+WMSC — national Weather Message Switching Center
+WO, W/O — Washout
+W/P — Waypoint
+WP — WayPoint
+WPT — Waypoint
+
+WRS — Wide-area ground Reference Station
+WS — SIGMET
+WS — Wind Speed
+WSFO — Weather Service Forecast Office
+WSO — Weather Service Office
+WST — Convective SIGMET
+W/V — Wind Vector
+WW — Severe Weather Watch
+Wx — Weather
+WXR — Weather Radar Transceiver
+
+X
+XCVR — Transceiver
+XDCR — Transducer
+XFMR — Transformer
+XMIT — Transmit
+XMOS — High Speed Metal Oxide Silicon semiconductor
+XMTR — Transmitter
+XPDR — Transponder
+XTK — Cross-Track
+XTK DEV — Cross Track Deviation
+X/W — Crosswind
+
+Y
+YD — Yaw Damper
+YDM — Yaw Damper Module
+
+Z
+Z — Zulu Time (Greenwich Mean Time)
+ZFW — Zero Fuel Weight
+
